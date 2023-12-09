@@ -12,10 +12,10 @@ namespace Object_Array
         {
             object[] array = new object[3];
             array[0] = 1;
-            array[1] = "Akhand";
+            array[1] = "APS";
             Customer c = new Customer();
             c.ID = 99;
-            c.Name = "Singh";
+            c.Name = "LAMBERDAR";
             array[2] = c;
             foreach (object  item in array)
             {
